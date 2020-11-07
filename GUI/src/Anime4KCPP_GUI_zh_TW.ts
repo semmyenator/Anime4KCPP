@@ -12,7 +12,7 @@
         <location filename="../../Build/GUI/Anime4KCPP_GUI_autogen/include_Release/ui_mainwindow.h" line="1058"/>
         <source>output path:</source>
         <oldsource>input path: </oldsource>
-        <translation>輸出路徑:</translation>
+        <translation>輸入路徑:</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="313"/>
